@@ -33,4 +33,7 @@ Congrats! Your Wii is now Modded!
 In My Homebrew app pack contains some apps you need and it includes the Mail-Patcher. The app won't work if don't have the wad files (The sd card is not needed. it Makes a folder called "Copy-To-SD')
 Follow the steps here https://wii.guide/riiconnect24.html
 
-Files for the patcher will be here:
+Files for the patcher will be here: https://github.com/DrxyYT/Wii-Moding-Pack/releases/tag/v1.0
+
+
+Enjoy the Wii Homebrew Community!
